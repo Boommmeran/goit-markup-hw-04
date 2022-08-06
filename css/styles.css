@@ -175,7 +175,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(/images/hero-bgr.jpg);
+    url(../images/hero-bgr.jpg);
 }
 
 .hero-title {
@@ -442,7 +442,7 @@ img {
 
 .footer {
   padding: 60px 0;
-  
+
   background: var(--secondary-bg-color);
 }
 
